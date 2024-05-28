@@ -86,3 +86,9 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 This project is licensed to Ola Kraszan.
 
 ---
+
+
+Demo video of what project will look like 
+
+
+https://github.com/Alexa77K/grocery-store/assets/133119951/a533b69f-cc64-42c1-8b85-04fb997699f3
